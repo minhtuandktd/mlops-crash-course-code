@@ -1,6 +1,7 @@
 apache-airflow==2.3.4
 apache-airflow-providers-docker==3.1.0
-feast[redis]==0.24.0
-pandas==1.4.4
+fastparquet==2023.4.0
+feast[redis]==0.31.1
+pandas>=1.5.0
 pendulum==2.1.2
 pyspark==3.0.1

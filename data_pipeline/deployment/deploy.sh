@@ -3,7 +3,7 @@
 cmd=$1
 
 # constants
-DOCKER_USER="$DOCKER_USER"
+DOCKER_USER="mlopsvn"
 PROJECT="mlops_crash_course"
 IMAGE_NAME="data_pipeline"
 IMAGE_TAG=$(git describe --always)
